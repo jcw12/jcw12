@@ -31,7 +31,7 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href "https://www.linkedin.com/in/james-currie-9668a7208/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+						<li><a href="https://www.linkedin.com/in/james-currie-9668a7208/" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
 						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 				</footer>
@@ -70,7 +70,7 @@ a Research Assistant with the <a href="https://www.rmit.edu.au/about/schools-col
 											<a href="post_disaster_assessment.html" class="image"><img src="images/pic01.jpg" alt="" /></a>
 											<div class="inner">
 												<h4>Post-Disaster Damage Assessment using Machine Learning & SAR.</h4>
-												<p>My capstone project involved building a globally transferrable machine learning model that could map damage to buildings using Sentinel-1 Synthetic Aperture Radar..</p>
+												<p>My capstone project involved building a globally transferrable machine learning model that could map damage to buildings using Sentinel-1 Synthetic Aperture Radar.</p>
 											</div>
 										</article>
 										<article>
@@ -87,6 +87,13 @@ a Research Assistant with the <a href="https://www.rmit.edu.au/about/schools-col
 												<p>Using Python and XML to automate interpolation in ArcGIS Pro, I utilised data from weather stations to produce high resolution daily maps of heat from the 2009 heatwave.</p>
 											</div>
 										</article>
+										<article>
+											<a href="https://www.eeadashboard.dcceew.gov.au/" class="image"><img src="images/eea.png" alt="" /></a>
+											<div class="inner">
+												<h4>Environmental Economic Accounting Dashboard</h4>
+												<p>Working as part of a large team at Spatial Vision, I assisted with data visualisation using Geoserver & QGIS for the award-winning EEA Dashboard.</p>
+											</div>
+										</article>
 									</div>
 								</div>
 							</section>
@@ -95,14 +102,15 @@ a Research Assistant with the <a href="https://www.rmit.edu.au/about/schools-col
 							<section id="three">
 								<div class="container">
 									<h3>Things I Can Do</h3>
-									<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet.</p>
+									<p>Below is a list of a few of my key skills & software I have experience with.</p>
 									<ul class="feature-icons">
-										<li class="icon solid fa-code">Spatial Analysis</li>
-										<li class="icon solid fa-cubes">Machine Learning</li>
-										<li class="icon solid fa-book">Geospatial Strategic Consulting</li>
-										<li class="icon solid fa-coffee">Esri Suite (ArcGIS Pro, Enterprise, Experience Builder)</li>
-										<li class="icon solid fa-bolt">Lightning bolt</li>
-										<li class="icon solid fa-users">Shadow clone technique</li>
+										<li class="icon solid fa-globe">Spatial Analysis & Data Science</li>
+<li class="icon solid fa-map">QGIS & Open Source Python</li>
+<li class="icon solid fa-compass">Geospatial Strategic Consulting</li>
+<li class="icon solid fa-layer-group">Esri Suite (ArcGIS Pro, Enterprise, Experience Builder, ArcPy)</li>
+<li class="icon solid fa-brain">Machine Learning & Earth Observation</li>
+<li class="icon solid fa-database">PostgreSQL / PostGIS, GeoServer</li>
+
 									</ul>
 								</div>
 							</section>
